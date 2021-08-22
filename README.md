@@ -9,11 +9,24 @@ NOTE: THIS IS STILL IN THE PROTOTYPING PHASE
 
 Render of version 1.02, the first physical prototype
 
-![Render of version 1.02, the first physical prototype](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/main/Pictures/b457a39e68feec032dceda5cca4cb670.png)
+![Render of version 1.02, the first physical prototype](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/1d049385009652ea5a4f1fc19d6b591e9ec7b806/Pictures/Revision%201.02/b457a39e68feec032dceda5cca4cb670.png)
 
 # Version 1.2
 
 I recieved the revision 1.02 parts and have made some modifications. The board was too long so it was shrunk. The text was also unreadable so it was enlargened and repositioned. I also noticed that the solder pads were not all the correct size, they are now. The PCB was also too thick so I ordered a 0.8mm thickness one (half the thickness of 1.02). 
+
+Render of version 1.2
+
+![Render of version 1.2](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/main/Pictures/Revision%201.2/oshparkv2top.png)
+
+Render of version 1.2 with the headphone jack on top
+
+![Render of version 1.2](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/1d049385009652ea5a4f1fc19d6b591e9ec7b806/Pictures/Revision%201.2/pcbv2.PNG)
+
+Render of the bottom of Version 1.2
+
+![Render of version 1.2](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/1d049385009652ea5a4f1fc19d6b591e9ec7b806/Pictures/Revision%201.2/pcbv2bottom.PNG)
+
 
 Also, the reason for skipping version 1.1 was because 1.1 went to a different concept. It will be posted soon.
 
