@@ -11,6 +11,12 @@ Render of version 1.02, the first physical prototype
 
 ![Render of version 1.02, the first physical prototype](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/main/Pictures/b457a39e68feec032dceda5cca4cb670.png)
 
+# Version 1.2
+
+I recieved the revision 1.02 parts and have made some modifications. The board was too long so it was shrunk. The text was also unreadable so it was enlargened and repositioned. I also noticed that the solder pads were not all the correct size, they are now. The PCB was also too thick so I ordered a 0.8mm thickness one (half the thickness of 1.02). 
+
+Also, the reason for skipping version 1.1 was because 1.1 went to a different concept. It will be posted soon.
+
 hield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
