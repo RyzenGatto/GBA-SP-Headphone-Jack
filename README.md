@@ -6,6 +6,7 @@ This is a dormant project. Plans to update in Winter 2024. Unposted is a ribbon 
 
 Coming soon: Custom, reproducible GBA SP case with headphone jack mounting
 
+# Introduction
 A PCB that enables adding a headphone jack to a GBA SP. Complete PCB's will be available for sale soon.
 
 This PCB was inspired by Hidarite on Tindy, however, the PCB was designed fully by myself without any files or IP from Hidarite. This was made due to the fact that Hidarite stopped selling this item.
