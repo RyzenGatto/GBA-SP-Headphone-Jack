@@ -2,12 +2,12 @@
 
 # General Info
 
-This is a dormant project. Plans to update in Winter 2024. Unposted is a ribbon cable to eliminate the need for fragile magnetic cables.
+This is a dormant project. Plans to update in Winter 2024. Unposted is a ribbon cable that eliminates the need for fragile magnetic cables.
 
 Coming soon: Custom, reproducible GBA SP case with headphone jack mounting
 
 # Introduction
-A PCB that enables adding a headphone jack to a GBA SP. Complete PCB's will be available for sale soon.
+A PCB that enables adding a headphone jack to a GBA SP. Complete PCBs will be available for sale soon.
 
 This PCB was inspired by Hidarite on Tindy, however, the PCB was designed fully by myself without any files or IP from Hidarite. This was made due to the fact that Hidarite stopped selling this item.
 
@@ -35,8 +35,6 @@ Render of the bottom of Version 1.2
 
 ![Render of version 1.2](https://github.com/RyzenGatto/GBA-SP-Headphone-Jack/blob/1d049385009652ea5a4f1fc19d6b591e9ec7b806/Pictures/Revision%201.2/pcbv2bottom.PNG)
 
-
-Also, the reason for skipping version 1.1 was because 1.1 went to a different concept. It will be posted soon.
 
 hield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
